@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hell-lord
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
 - 📫 How to reach me chpavan2003@gmail.com
 
 <!---
