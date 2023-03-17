@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hell-lord
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Pavan.
+- 👀 I’m interested in programming and have experience in Web Development and Machine Learning. 
 - 📫 How to reach me chpavan2003@gmail.com
 
 <!---
